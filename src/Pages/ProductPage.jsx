@@ -20,7 +20,11 @@ function Menu() {
     <div className="flex justify-center items-center">
       <div className="card bg-base-100 w-96 shadow-sm">
         <figure className="px-10 pt-10">
-          <img src="src\assets\kopi1.jpg" alt="Shoes" className="rounded-xl  w-70 h-50" />
+          <img
+            src="public\kopi1.jpg"
+            alt="Shoes"
+            className="rounded-xl  w-70 h-50"
+          />
         </figure>
         <div className="card-body items-center text-center">
           <h2 className="card-title"> Cappucino Coffe</h2>
@@ -37,7 +41,11 @@ function Menu() {
 
       <div className="card bg-base-100 w-96 shadow-sm">
         <figure className="px-10 pt-10">
-          <img src="src\assets\kopi2.jpeg" alt="Shoes" className="rounded-xl  w-70 h-50" />
+          <img
+            src="public\kopi2.jpeg"
+            alt="Shoes"
+            className="rounded-xl  w-70 h-50"
+          />
         </figure>
         <div className="card-body items-center text-center">
           <h className="card-title">latte Coffe</h>
@@ -54,7 +62,11 @@ function Menu() {
 
       <div className="card bg-base-100 w-96 shadow-sm">
         <figure className="px-10 pt-10">
-          <img src="src\assets\kopi 3.jpg" alt="Shoes" className="rounded-xl w-70 h-50" />
+          <img
+            src="public\kopi 3.jpg"
+            alt="Shoes"
+            className="rounded-xl w-70 h-50"
+          />
         </figure>
         <div className="card-body items-center text-center">
           <h2 className="card-title">Kopi Hitam</h2>
@@ -65,7 +77,7 @@ function Menu() {
           </p>
           <div className="card-actions">
             <button className="btn text-amber-50 bg-amber-800 ">Buy Now</button>
-          </div> 
+          </div>
         </div>
       </div>
     </div>
