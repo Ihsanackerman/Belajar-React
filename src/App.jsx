@@ -10,7 +10,7 @@ import NotFoundPage from "./Pages/NotFoundPage";
 function App() {
   return (
     <>
-      <h1>sfghgj</h1>
+      <h1>bismillah</h1>
       <h1>Ihsan Wibu</h1>
       {/* <CardName /> */}
       {/* <HomePage /> */}
