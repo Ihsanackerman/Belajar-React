@@ -58,7 +58,7 @@ function ContactSection() {
               htmlFor="name"
               className="block text-sm font-medium text-gray-700 mb-1"
             >
-              Name
+              Nam
             </label>
             <input
               name="name"
