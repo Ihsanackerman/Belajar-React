@@ -10,8 +10,6 @@ import NotFoundPage from "./Pages/NotFoundPage";
 function App() {
   return (
     <>
-    <h1>last</h1>
-    <h1>hehehehehehehe</h1>
       {/* <CardName /> */}
       {/* <HomePage /> */}
       <Router>
