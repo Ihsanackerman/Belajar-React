@@ -10,9 +10,9 @@ import NotFoundPage from "./Pages/NotFoundPage";
 function App() {
   return (
     <>
-    <h1>Mi Juara</h1>
-    <h1>anjay</h1>
-    <h1>tes</h1>
+      <h1>Mi Juara</h1>
+      <h1>anjay</h1>
+      <h1>tes</h1>
       {/* <CardName /> */}
       {/* <HomePage /> */}
       <Router>
