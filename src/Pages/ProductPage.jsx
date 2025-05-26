@@ -7,7 +7,6 @@ function ProductPage() {
     <>
       <NavBar />
       <Menu />
-
       <Footer />
     </>
   );
