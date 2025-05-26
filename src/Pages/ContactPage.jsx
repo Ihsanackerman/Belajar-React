@@ -2,7 +2,7 @@ import NavBar from "./NavBar";
 import Footer from "./Footer";
 
 import React, { useState } from "react";
-import { db } from "../firebase";
+import { db } from "../Firebase";
 import { collection, addDoc } from "firebase/firestore";
 
 function ContactPage() {
